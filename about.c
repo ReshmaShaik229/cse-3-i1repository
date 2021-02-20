@@ -17,5 +17,6 @@ else
 printf("c");
 }
 printf("Hello World");
+printf("Day-2 of workshop");
 getch();
 }
